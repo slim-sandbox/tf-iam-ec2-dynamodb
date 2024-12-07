@@ -14,3 +14,4 @@ Solution under `/activity` directory
 # Activity 2
 No solution provided. Following guide would be useful.
 https://developer.hashicorp.com/terraform/tutorials/aws/aws-rds
+
